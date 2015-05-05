@@ -50,3 +50,5 @@ bool next_perm(Iter first, Iter last)
         }
     }
 }
+
+// source : http://wordaligned.org/articles/next-permutation
